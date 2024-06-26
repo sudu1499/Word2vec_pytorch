@@ -1,0 +1,1 @@
+In this project i have tried to build the word2vec using binary representaion instead of onehot encoding and i failed in it so i will try another way.
